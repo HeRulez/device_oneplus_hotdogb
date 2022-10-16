@@ -21,9 +21,6 @@ TARGET_GAPPS_ARCH := arm64
 # Build_type
 CHERISH_BUILDTYPE := Unofficial
 
-# Device Maintainer
-DEVICE_MAINTAINER:- Ashwini(HeRulez)
-
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := cherish_hotdogb
 PRODUCT_DEVICE := hotdogb
